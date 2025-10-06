@@ -1,0 +1,17 @@
+import pyautogui as aut
+
+aut.press("win")
+aut.sleep(1)
+aut.write("notepad")
+aut.sleep(0.5)
+aut.press("Enter")
+aut.sleep(1)
+aut.press("Enter")
+aut.write("Hello")
+aut.sleep(0.5)
+aut.press("Space")
+aut.sleep(0.5)
+aut.write("Word")
+aut.sleep(0.5)
+aut.press("Space")
+aut.write("Nigga")

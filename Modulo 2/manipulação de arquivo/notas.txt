@@ -1,0 +1,4 @@
+Maria;10
+Jo�o;10
+Matheus;10
+Daniel;6.8
